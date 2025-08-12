@@ -1,0 +1,6 @@
+name,p_value,precision,intersections
+Direct reversal repair,0.0299059450141264,0.5,['MGMT']
+methylated-DNA-[protein]-cysteine S-methyltransferase activity,0.0497635732634235,0.25,['MGMT']
+"Ubiquitin E3 ligase (SMAD7, SMURF2)",0.0499316934433553,1.0,['SMURF2']
+"Ubiquitin E3 ligase (SMURF2, SMAD3) - SnoN complex, TGF(beta)-dependent",0.0499316934433553,1.0,['SMURF2']
+MGMT-mediated DNA damage reversal,0.049968353376178,0.3333333333333333,['MGMT']

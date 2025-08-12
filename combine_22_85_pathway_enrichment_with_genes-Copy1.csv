@@ -1,0 +1,6 @@
+source,native,name,p_value,significant,description,term_size,query_size,intersection_size,effective_domain_size,precision,recall,query,parents,intersections,evidences
+WP,WP:WP4931,Direct reversal repair,0.029905945014126495,True,Direct reversal repair,3,2,1,8722,0.5,0.3333333333333333,query_1,['WP:000000'],['MGMT'],[['WP']]
+GO:MF,GO:0003908,methylated-DNA-[protein]-cysteine S-methyltransferase activity,0.049763573263423594,True,"""Catalysis of the reaction: DNA (containing 6-O-methylguanine) + (protein)-L-cysteine = DNA (without 6-O-methylguanine) + protein S-methyl-L-cysteine."" [EC:2.1.1.63]",1,4,1,20196,0.25,1.0,query_1,"['GO:0008172', 'GO:0008276']",['MGMT'],"[['IBA', 'IEA']]"
+CORUM,CORUM:2992,"Ubiquitin E3 ligase (SMAD7, SMURF2)",0.04993169344335535,True,"Ubiquitin E3 ligase (SMAD7, SMURF2)",2,1,1,3383,1.0,0.5,query_1,['CORUM:0000000'],['SMURF2'],[['CORUM']]
+CORUM,CORUM:3972,"Ubiquitin E3 ligase (SMURF2, SMAD3) - SnoN complex, TGF(beta)-dependent",0.04993169344335535,True,"Ubiquitin E3 ligase (SMURF2, SMAD3) - SnoN complex, TGF(beta)-dependent",2,1,1,3383,1.0,0.5,query_1,['CORUM:0000000'],['SMURF2'],[['CORUM']]
+REAC,REAC:R-HSA-5657655,MGMT-mediated DNA damage reversal,0.04996835337617805,True,MGMT-mediated DNA damage reversal,1,3,1,10916,0.3333333333333333,1.0,query_1,['REAC:R-HSA-73942'],['MGMT'],[['REAC']]

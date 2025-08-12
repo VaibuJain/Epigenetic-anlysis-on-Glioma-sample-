@@ -1,0 +1,2 @@
+GeneName	Chrom_M	Start_M	End_M	Chrom_G	Start_G	End_G	Methylation_Count	GeneLength	Methylation_per_kb	Normalized_by_Coverage
+ENSG00000182054;	15	90085099	90085100	15	90083044	90102477	527	19433	27.118818504605567	5.423763700921113
